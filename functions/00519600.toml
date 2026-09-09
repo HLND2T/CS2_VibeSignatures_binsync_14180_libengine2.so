@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735991Z
+addr = 0x519600
+size = 0x3d
+name = "CEngineServer_ChangeLevel"
+
+[header]
+name = "CEngineServer_ChangeLevel"
+addr = 0x519600
+
+[header.args]

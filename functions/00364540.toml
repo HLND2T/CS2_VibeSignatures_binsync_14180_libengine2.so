@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735441Z
+addr = 0x364540
+size = 0x8
+name = "CEngineServiceMgr_GetEventDispatcher"
+
+[header]
+name = "CEngineServiceMgr_GetEventDispatcher"
+addr = 0x364540
+
+[header.args]

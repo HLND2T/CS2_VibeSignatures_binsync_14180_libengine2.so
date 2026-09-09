@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.736072Z
+addr = 0x5aef90
+size = 0x490
+name = "CHLTVBroadcast_RecordSnapshot"
+
+[header]
+name = "CHLTVBroadcast_RecordSnapshot"
+addr = 0x5aef90
+
+[header.args]

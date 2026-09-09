@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735763Z
+addr = 0x4f2840
+size = 0x81
+name = "CNetworkGameServerBase_SetGameSpawnGroupMgr"
+
+[header]
+name = "CNetworkGameServerBase_SetGameSpawnGroupMgr"
+addr = 0x4f2840
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735645Z
+addr = 0x42a950
+size = 0x42
+name = "CNetworkClientService_StartChangeLevel"
+
+[header]
+name = "CNetworkClientService_StartChangeLevel"
+addr = 0x42a950
+
+[header.args]

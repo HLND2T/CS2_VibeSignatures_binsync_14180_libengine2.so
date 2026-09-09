@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735944Z
+addr = 0x516450
+size = 0x8
+name = "CEngineServer_GetAchievementMgr"
+
+[header]
+name = "CEngineServer_GetAchievementMgr"
+addr = 0x516450
+
+[header.args]

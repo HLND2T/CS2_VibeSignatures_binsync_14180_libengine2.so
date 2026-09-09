@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735438Z
+addr = 0x3644f0
+size = 0x8
+name = "CEngineServiceMgr_GetEngineWindow"
+
+[header]
+name = "CEngineServiceMgr_GetEngineWindow"
+addr = 0x3644f0
+
+[header.args]

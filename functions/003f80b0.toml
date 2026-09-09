@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735552Z
+addr = 0x3f80b0
+size = 0x7e
+name = "CWaitForInitialSpawnGroupsPrerequisite_GetStatus"
+
+[header]
+name = "CWaitForInitialSpawnGroupsPrerequisite_GetStatus"
+addr = 0x3f80b0
+
+[header.args]

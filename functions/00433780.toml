@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735650Z
+addr = 0x433780
+size = 0x3cd
+name = "CRenderService_OnClientOutput"
+
+[header]
+name = "CRenderService_OnClientOutput"
+addr = 0x433780
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735631Z
+addr = 0x42a6c0
+size = 0x5a
+name = "CNetworkClientService_PrintSpawnGroupStatus"
+
+[header]
+name = "CNetworkClientService_PrintSpawnGroupStatus"
+addr = 0x42a6c0
+
+[header.args]

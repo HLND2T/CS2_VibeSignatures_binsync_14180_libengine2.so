@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.736022Z
+addr = 0x528440
+size = 0xfc2
+name = "CServerSideClientBase_SendServerInfo"
+
+[header]
+name = "CServerSideClientBase_SendServerInfo"
+addr = 0x528440
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735533Z
+addr = 0x3c8090
+size = 0x282
+name = "CGameResourceService_LoadGameResourceManifestNamed"
+
+[header]
+name = "CGameResourceService_LoadGameResourceManifestNamed"
+addr = 0x3c8090
+
+[header.args]

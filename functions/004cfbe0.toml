@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735707Z
+addr = 0x4cfbe0
+size = 0xca
+name = "CNetworkGameClient_HookClientStringTable"
+
+[header]
+name = "CNetworkGameClient_HookClientStringTable"
+addr = 0x4cfbe0
+
+[header.args]

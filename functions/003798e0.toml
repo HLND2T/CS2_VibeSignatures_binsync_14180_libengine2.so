@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735487Z
+addr = 0x3798e0
+size = 0x1c7
+name = "CLoopTypeClientServerService_OnLoopActivate"
+
+[header]
+name = "CLoopTypeClientServerService_OnLoopActivate"
+addr = 0x3798e0
+
+[header.args]

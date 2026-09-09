@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.736078Z
+addr = 0x5da790
+size = 0x15e
+name = "CPanoramaEngineHandler_OnClientPreOutput"
+
+[header]
+name = "CPanoramaEngineHandler_OnClientPreOutput"
+addr = 0x5da790
+
+[header.args]

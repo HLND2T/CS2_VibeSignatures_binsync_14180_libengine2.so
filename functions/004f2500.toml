@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735761Z
+addr = 0x4f2500
+size = 0x16d
+name = "CNetworkGameServerBase_IsSaveRestoreAllowed"
+
+[header]
+name = "CNetworkGameServerBase_IsSaveRestoreAllowed"
+addr = 0x4f2500
+
+[header.args]

@@ -1,0 +1,27 @@
+[0x4ca078]
+last_change = 2026-09-09T16:16:04.436973Z
+addr = 0x4ca078
+func_addr = 0x4c9ae0
+comment = "this"
+decompiled = false
+
+[0x4ca084]
+last_change = 2026-09-09T16:16:04.437030Z
+addr = 0x4ca084
+func_addr = 0x4c9ae0
+comment = "this"
+decompiled = false
+
+[0x4ca090]
+last_change = 2026-09-09T16:16:04.437046Z
+addr = 0x4ca090
+func_addr = 0x4c9ae0
+comment = "this"
+decompiled = false
+
+[0x531fb9]
+last_change = 2026-09-09T16:16:05.133826Z
+addr = 0x531fb9
+func_addr = 0x531ce0
+comment = "this"
+decompiled = false

@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735540Z
+addr = 0x3cf6f0
+size = 0x10
+name = "CGameResourceService_RegisterEventMap"
+
+[header]
+name = "CGameResourceService_RegisterEventMap"
+addr = 0x3cf6f0
+
+[header.args]

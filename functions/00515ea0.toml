@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735932Z
+addr = 0x515ea0
+size = 0x131
+name = "CNetworkGameServerBase_SetMaxClients"
+
+[header]
+name = "CNetworkGameServerBase_SetMaxClients"
+addr = 0x515ea0
+
+[header.args]

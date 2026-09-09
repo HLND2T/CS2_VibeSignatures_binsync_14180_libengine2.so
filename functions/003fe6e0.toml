@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735569Z
+addr = 0x3fe6e0
+size = 0x1132
+name = "CNetworkServerService_Init"
+
+[header]
+name = "CNetworkServerService_Init"
+addr = 0x3fe6e0
+
+[header.args]

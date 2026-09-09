@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735599Z
+addr = 0x414330
+size = 0x207
+name = "CNetworkServerService_DisconnectGameNow"
+
+[header]
+name = "CNetworkServerService_DisconnectGameNow"
+addr = 0x414330
+
+[header.args]

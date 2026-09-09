@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735955Z
+addr = 0x517270
+size = 0xa5
+name = "CEngineServer_ClientPrintf"
+
+[header]
+name = "CEngineServer_ClientPrintf"
+addr = 0x517270
+
+[header.args]

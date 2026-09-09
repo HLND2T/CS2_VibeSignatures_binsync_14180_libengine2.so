@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735635Z
+addr = 0x42a830
+size = 0x21
+name = "CNetworkClientService_SendStringCmd"
+
+[header]
+name = "CNetworkClientService_SendStringCmd"
+addr = 0x42a830
+
+[header.args]

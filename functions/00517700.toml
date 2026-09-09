@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735964Z
+addr = 0x517700
+size = 0x60
+name = "CEngineServer_PrecacheGeneric"
+
+[header]
+name = "CEngineServer_PrecacheGeneric"
+addr = 0x517700
+
+[header.args]

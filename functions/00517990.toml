@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735979Z
+addr = 0x517990
+size = 0x5
+name = "j_GetSteamUniverse_0"
+
+[header]
+name = "j_GetSteamUniverse_0"
+addr = 0x517990
+
+[header.args]

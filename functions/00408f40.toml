@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735589Z
+addr = 0x408f40
+size = 0x2b6
+name = "CNetworkServerService_OnServerPostAdvanceTick"
+
+[header]
+name = "CNetworkServerService_OnServerPostAdvanceTick"
+addr = 0x408f40
+
+[header.args]

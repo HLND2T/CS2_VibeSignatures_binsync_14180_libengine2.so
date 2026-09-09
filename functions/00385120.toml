@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735501Z
+addr = 0x385120
+size = 0x70f
+name = "CLoopTypeClientServer_LoopTypeInit"
+
+[header]
+name = "CLoopTypeClientServer_LoopTypeInit"
+addr = 0x385120
+
+[header.args]

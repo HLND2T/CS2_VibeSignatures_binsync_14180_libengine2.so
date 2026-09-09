@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735472Z
+addr = 0x36a9c0
+size = 0x217
+name = "CEngineServiceMgr_RegisterLoopMode"
+
+[header]
+name = "CEngineServiceMgr_RegisterLoopMode"
+addr = 0x36a9c0
+
+[header.args]

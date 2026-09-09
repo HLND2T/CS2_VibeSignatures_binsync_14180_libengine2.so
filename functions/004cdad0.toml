@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735705Z
+addr = 0x4cdad0
+size = 0x2d4
+name = "CNetworkGameClientBase_ProcessCreateStringTable"
+
+[header]
+name = "CNetworkGameClientBase_ProcessCreateStringTable"
+addr = 0x4cdad0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:16:01.735727Z
+addr = 0x4e1500
+size = 0x1ac1
+name = "CNetworkGameClientBase__ProcessNetworking"
+
+[header]
+name = "CNetworkGameClientBase__ProcessNetworking"
+addr = 0x4e1500
+
+[header.args]
